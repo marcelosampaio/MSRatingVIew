@@ -2,4 +2,6 @@
 
 Custom Rating View - SwiftUI
 
-<img width="146" alt="Screen Shot 2022-06-03 at 15 17 06" src="https://user-images.githubusercontent.com/3922656/172158699-7fba302b-adc9-432e-974f-a2dde8dfbd19.png">
+
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 09 16 30](https://user-images.githubusercontent.com/3922656/172159027-0c394178-9478-4651-b61f-84a54f0bb2de.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 09 16 45](https://user-images.githubusercontent.com/3922656/172159038-566934c3-7070-48ac-b254-2d6880382510.png)
